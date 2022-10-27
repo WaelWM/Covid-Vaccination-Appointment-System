@@ -1,0 +1,10 @@
+UD0001/Lim/Wei Kuan/lim123/012-8889898/lim123@gmail.com/Dec 21, 2001/Citizen/011221011277/Johor
+UD0002/Sia/Yi Wei/sia123/017-8889898/sia123@gmail.com/Aug 6, 2001/Citizen/010806058677/Selangor
+UD0003/Lim/Xi Xuan/lim123/015-6667777/xx123@gmail.com/Nov 12, 2001/Non-Citizen/4735892771/Kuantan
+UD0004/Lim/Xi Jin/lim123/013-7778888/xj123@gmail.com/Nov 15, 2001/Non-Citizen/238759824579/Kuantan
+UD0005/Ooi/Kevin/kv123/012-4456677/kv123@gmail.com/Jul 18, 2001/Citizen/010718075365/Shah Alam
+UD0006/Chan/Jacky/jack123/019-7778888/jack123@gmail.com/Jun 11, 2002/Citizen/020611010365/Johor
+UD0007/Ong/Vincent/vin123@gmail.com/019-5567789/vincent123@gmail.com/Aug 13, 2000/Citizen/000813071257/Penang
+UD0008/Tay/Johnny/john000/017-6538899/john123@gmail.com/Feb 9, 1998/Non-citizen/574856960345/Pahang
+UD0009/Lau/Bennard/lau999/017-3345678/bennard55@hotmail.com/Jul 16, 1996/Non-citizen/570603983032/Melaka
+UD0010/Neo/Lily/neo444/015-6573454/neo44@gmail.com/Apr 9, 1991/Non-citizen/54375676856/Perak

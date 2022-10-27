@@ -1,0 +1,16 @@
+1,CoronaVac,Stadium Bukit Jalil,19
+2,Sinovac,Stadium Bukit Jalil,19
+3,Pfizer,Stadium Bukit Jalil,20
+4,Moderna,Stadium Bukit Jalil,19
+5,CoronaVac,Dewan Universiti Malaya,18
+6,Sinovac,Dewan Universiti Malaya,19
+7,Pfizer,Dewan Universiti Malaya,19
+8,Moderna,Dewan Universiti Malaya,18
+9,CoronaVac,Axiata Arena Bukit Jalil,17
+10,Sinovac,Axiata Arena Bukit Jalil,19
+11,Pfizer,Axiata Arena Bukit Jalil,19
+12,Moderna,Axiata Arena Bukit Jalil,19
+13,CoronaVac,Dewan Besar Gemas,19
+14,Sinovac,Dewan Besar Gemas,19
+15,Pfizer,Dewan Besar Gemas,19
+16,Moderna,Stadium Bukit Jalil,0
